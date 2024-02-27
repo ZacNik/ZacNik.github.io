@@ -1,1 +1,39 @@
+// main.scss
 
+$main-font-family: 'Arial', sans-serif;
+$primary-color: #007bff;
+$background-color: #f4f4f4;
+
+body{
+  font-family: $main-font-family;
+  background-color: $background-color;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  width: 80%;
+  margin: 0 auto;
+}
+
+.header{
+  background-color: $primary-color;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+.main-content{
+  padding: 20px;
+}
+
+.footer{
+  background-color: $primary-color;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
