@@ -10,7 +10,7 @@ Hello! My name is Zachary Nikkel, a Software Development student at Helena Colle
 - Game Development
 
 ### Hobbies
--Snowboarding
--Hiking
--Fishing
--Reading
+- Snowboarding
+- Hiking
+- Fishing
+- Reading
