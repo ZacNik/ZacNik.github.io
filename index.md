@@ -17,11 +17,11 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Recipe Sharing Platform API with Express*](https://github.com/ZacNik/PizzaParadise)
+[Recipe Sharing Platform API with Express](https://github.com/ZacNik/RecipeSharingAPI)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Android OS Employee Survey Application*](https://github.com/ZacNik/PizzaParadise)
+[Android OS Employee Survey Application](https://github.com/ZacNik/SurveyApp)
 <br>
 <img src="images/android.png?raw=true"/>
 
@@ -34,7 +34,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project Management - Paw Park Renovations*](https://github.com/ZacNik/PizzaParadise)
+[Project Management - Paw Park Renovations](https://github.com/ZacNik/PawParkRenovations)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ## Contact Me
