@@ -22,6 +22,7 @@
 
 ---
 [Android OS Employee Survey Application*](https://github.com/ZacNik/PizzaParadise)
+<br>
 <img src="images/android.png?raw=true"/>
 
 ---
