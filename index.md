@@ -28,7 +28,13 @@
 
 ---
 
+## Contact Me
 
+<div class="contact-section">
+    <h2>Contact Information</h2>
+    <p><strong>Email:</strong> example@example.com</p>
+    <p><strong>Phone:</strong> 123-456-7890</p>
+</div>
 
 
 ---
