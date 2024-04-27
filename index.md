@@ -22,7 +22,7 @@
 
 ---
 [Android OS Employee Survey Application*](https://github.com/ZacNik/PizzaParadise)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/android.png?raw=true"/>
 
 ---
 [System Analysis of UPS Employee Satisfaction](https://github.com/ZacNik/SystemAnalysisOfUPSWorkEnvironment)
