@@ -9,24 +9,32 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[March Madness Predictive Algorithm](https://github.com/ZacNik/MachineLearningWork)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Online Ordering System & Order Tracker for Pizza Paradise](https://github.com/ZacNik/PizzaParadise)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Recipe Sharing Platform API with Express*](https://github.com/ZacNik/PizzaParadise)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Android OS Employee Survey Application*](https://github.com/ZacNik/PizzaParadise)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[System Analysis of UPS Employee Satisfaction](https://github.com/ZacNik/SystemAnalysisOfUPSWorkEnvironment)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Case Study of Yahoo Security Breach](https://github.com/ZacNik/YahooSecurityBreachCaseStudy)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Project Management - Paw Park Renovations*](https://github.com/ZacNik/PizzaParadise)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ## Contact Me
 
