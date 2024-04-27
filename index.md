@@ -31,7 +31,7 @@
 ## Contact Me
 
 <div class="contact-section">
-    <h2>Contact Information</h2>
+    
     <p><strong>Email:</strong> Zachary.Nikkel1@gmail.com</p>
     <p><strong>Phone:</strong> 618-593-1639</p>
 </div>
