@@ -18,7 +18,7 @@
 
 ---
 [Recipe Sharing Platform API with Express](https://github.com/ZacNik/RecipeSharingAPI)
-<img src="nodejsjpg.jpg?raw=true"/>
+<img src="images/nodejsjpg.jpg?raw=true"/>
 
 ---
 [Android OS Employee Survey Application](https://github.com/ZacNik/SurveyApp)
