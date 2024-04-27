@@ -3,6 +3,10 @@ body {
     font-family: Arial, sans-serif;
 }
 
+.wrapper{
+    background-color: #333;
+}
+
 header {
     background-color: #333;
     color: #fff;
