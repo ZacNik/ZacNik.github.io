@@ -2,7 +2,23 @@
 
 ---
 <style>
-  
+  body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
 </style>
 ### Category Name 1 
 
