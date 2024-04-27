@@ -11,7 +11,7 @@
 ---
 [March Madness Predictive Algorithm](https://github.com/ZacNik/MachineLearningWork)
 <img src="images/marchmadness.jpg?raw=true"/>
-
+ <p>This project was the final project for my Independent Study in Machine Learning. I developed a Predictive algorithm using numpy and pandas python libraries to develop an algorithm that was 66% accurate in predicting who the winner of the NCAA Tournament would be for the 2022 season.</p>
 ---
 [Online Ordering System & Order Tracker for Pizza Paradise](https://github.com/ZacNik/PizzaParadise)
 <img src="images/pizzaparadise.png?raw=true"/>
