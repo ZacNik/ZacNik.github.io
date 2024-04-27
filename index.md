@@ -6,19 +6,19 @@
 ### My Projects 
 
 [Task Management System](https://github.com/ZacNik/TaskManagerApplication)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/taskmanagementclipart.jpg?raw=true"/>
 
 ---
 [March Madness Predictive Algorithm](https://github.com/ZacNik/MachineLearningWork)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/marchmadness.jpg?raw=true"/>
 
 ---
 [Online Ordering System & Order Tracker for Pizza Paradise](https://github.com/ZacNik/PizzaParadise)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/pizzaparadise.png?raw=true"/>
 
 ---
 [Recipe Sharing Platform API with Express](https://github.com/ZacNik/RecipeSharingAPI)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="nodejs.png?raw=true"/>
 
 ---
 [Android OS Employee Survey Application](https://github.com/ZacNik/SurveyApp)
@@ -27,15 +27,15 @@
 
 ---
 [System Analysis of UPS Employee Satisfaction](https://github.com/ZacNik/SystemAnalysisOfUPSWorkEnvironment)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/systemanalysis.jpg?raw=true"/>
 
 ---
 [Case Study of Yahoo Security Breach](https://github.com/ZacNik/YahooSecurityBreachCaseStudy)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/securitybreach.jpg?raw=true"/>
 
 ---
 [Project Management - Paw Park Renovations](https://github.com/ZacNik/PawParkRenovations)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/happydogpark.png?raw=true"/>
 
 ## Contact Me
 
