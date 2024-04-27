@@ -3,9 +3,9 @@
 
 ---
 
-### Category Name 1 
+### My Projects 
 
-[Project 1 Title](/sample_page)
+[Task Management System](https://github.com/ZacNik/TaskManagerApplication)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
