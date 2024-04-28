@@ -5,6 +5,7 @@
     <a href="#contact">Contact</a>
 </div>
 
+---
 
 <br>
 ### <span id="about">About Me</span>
@@ -55,7 +56,7 @@
 <img src="images/happydogpark.png?raw=true"/>
 <p style="color: black;">In this project, I took on the role of project manager for the Paw Park Renovations, overseeing the planning, execution, and completion of a community-driven initiative to revitalize a local dog park. Through effective project management techniques, I successfully coordinated with stakeholders, volunteers, and vendors to ensure the project's success. This project provided me with hands-on experience in project planning, scheduling, budgeting, and resource allocation, highlighting the importance of effective communication, teamwork, and stakeholder engagement in achieving project objectives.</p>
 <br>
-
+---
 ### <span id="skills">Skills</span>
 
 **Technical Skills:**
@@ -74,6 +75,8 @@
 - <span style="color: black;">Adaptability</span>
 - <span style="color: black;">Leadership</span>
 
+---
+
 ### <span id="contact">Contact Me</span>
 
 <div class="contact-section">
@@ -83,5 +86,4 @@
 </div>
 
 
----
 
