@@ -3,6 +3,13 @@
 
 ---
 
+### About Me
+
+<p>
+ 
+</p>
+---
+
 ### My Projects 
 
 [Task Management System](https://github.com/ZacNik/TaskManagerApplication)
