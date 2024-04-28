@@ -6,9 +6,9 @@
 
 
 <br>
-
-<div style="background-color: #f0f0f0; padding: 20px;">
 ### <span id="about">About Me</span>
+
+
 
 <p style="color: black;">
      Welcome to my portfolio! My name is Zachary Nikkel, and I am a Software Develoment Graduate from Helena College. As a passionate and dedicated software developer, I am thrilled to showcase a selection of my projects that represent my journey in the world of technology. With a background in software development, project management, and systems analysis, I have honed my skills in many different programming languages and technologies. Each project featured in this portfolio reflects not only my technical proficiency but also my creativity, problem-solving abilities, and commitment to producing excellent work. From developing efficient task management systems to crafting predictive algorithms for March Madness, my goal is to leverage technology to solve real-world problems and drive meaningful impact.
@@ -16,9 +16,9 @@
 <p style="color: black;">
      I invite you to explore my work and learn more about the projects that have shaped my professional journey. Thank you for visiting!
 </p>
-</div>
+
 ---
-<div style="background-color: #f0f0f0; padding: 20px;">
+
 ### <span id="projects">My Projects</span> 
 
 [Task Management System](https://github.com/ZacNik/TaskManagerApplication)
@@ -54,8 +54,7 @@
 <img src="images/happydogpark.png?raw=true"/>
 <p style="color: black;">In this project, I took on the role of project manager for the Paw Park Renovations, overseeing the planning, execution, and completion of a community-driven initiative to revitalize a local dog park. Through effective project management techniques, I successfully coordinated with stakeholders, volunteers, and vendors to ensure the project's success. This project provided me with hands-on experience in project planning, scheduling, budgeting, and resource allocation, highlighting the importance of effective communication, teamwork, and stakeholder engagement in achieving project objectives.</p>
 <br>
-</div>
-<div style="background-color: #f0f0f0; padding: 20px;">
+
 ### <span id="skills">Skills</span>
 
 **Technical Skills:**
@@ -73,8 +72,7 @@
 - <span style="color: black;">Time Management</span>
 - <span style="color: black;">Adaptability</span>
 - <span style="color: black;">Leadership</span>
-</div>
-<div style="background-color: #f0f0f0; padding: 20px;">
+
 ### <span id="contact">Contact Me</span>
 
 <div class="contact-section">
@@ -82,7 +80,7 @@
     <p style="color: black;"><strong>Email:</strong> Zachary.Nikkel1@gmail.com</p>
     <p style="color: black;"><strong>Phone:</strong> 618-593-1639</p>
 </div>
-</div>
+
 
 ---
 
