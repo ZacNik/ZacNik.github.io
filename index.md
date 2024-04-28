@@ -4,10 +4,11 @@
     <a href="#projects" style="margin-right: 20px;">Projects</a>
     <a href="#contact">Contact</a>
 </div>
+<br>
 
 ---
 
-<br>
+
 ### <span id="about">About Me</span>
 
 
