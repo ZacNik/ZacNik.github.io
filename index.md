@@ -56,7 +56,7 @@
 ---
 [Case Study of Yahoo Security Breach](https://github.com/ZacNik/YahooSecurityBreachCaseStudy)
 <br><br>
-<img src="images/securitybreach.jpg?raw=true"/>
+<img src="images/cybersecurity.jpg?raw=true"/>
 <p style="color: black;">In this project, I conducted a comprehensive case study of the Yahoo security breach, analyzing the factors leading to the breach and its implications for cybersecurity practices. Through extensive research and analysis of cybersecurity frameworks and best practices, I gained a deep understanding of the vulnerabilities exploited in the breach and the impact on Yahoo's users and stakeholders. This project provided me with insights into the importance of proactive security measures, threat intelligence, and incident response planning in safeguarding sensitive data and mitigating cyber threats.</p>
 ---
 [Project Management - Paw Park Renovations](https://github.com/ZacNik/PawParkRenovations)
