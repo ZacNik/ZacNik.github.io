@@ -1,4 +1,5 @@
 <div style="display: inline; padding-bottom: 10px;">
+    <p style="color: black; margin-right: 10px;">Go To:</p>
     <a href="#skills" style="margin-right: 10px;">Skills</a>
     <a href="#projects" style="margin-right: 10px;">Projects</a>
     <a href="#contact">Contact</a>
