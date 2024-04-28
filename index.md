@@ -1,5 +1,5 @@
 <div style="display: inline; padding-bottom: 10px;">
-    <p style="color: black; margin-right: 10px;">Go To:</p>
+    <span style="display: inline-block; color: black; margin-right: 10px;">Go To:</span>
     <a href="#skills" style="margin-right: 20px; margin-left: 20px;">Skills</a>
     <a href="#projects" style="margin-right: 20px;">Projects</a>
     <a href="#contact">Contact</a>
