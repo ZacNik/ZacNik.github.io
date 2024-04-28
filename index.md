@@ -36,7 +36,7 @@
 ---
 [Online Ordering System & Order Tracker for Pizza Paradise](https://github.com/ZacNik/PizzaParadise)
 <br><br>
-<img src="images/pizzaparadise.png?raw=true"/>
+<img src="images/pizzaclipart.jpg?raw=true"/>
 <p style="color: black;">As part of my software development journey, I took on the challenge of creating an online ordering system and order tracker for Pizza Paradise. This project involved designing and implementing a user-friendly interface for customers to place orders seamlessly and for staff to efficiently manage incoming orders. Leveraging my skills in frontend and backend development, I built a robust system that integrates with Pizza Paradise's existing infrastructure, providing a seamless ordering experience for customers and enhancing operational efficiency for the restaurant. Through this project, I gained hands-on experience in web development, database management, and system integration, demonstrating my ability to deliver tailored solutions to meet specific business needs.</p>
 ---
 [Recipe Sharing Platform API with Express](https://github.com/ZacNik/RecipeSharingAPI)
