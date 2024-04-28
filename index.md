@@ -1,11 +1,12 @@
-<div style="display: inline;">
-    <a href="#skills">Skills</a>
-    <a href="#projects">Projects</a>
+<div style="display: inline; padding-bottom: 10px;">
+    <a href="#skills" style="margin-right: 10px;">Skills</a>
+    <a href="#projects" style="margin-right: 10px;">Projects</a>
     <a href="#contact">Contact</a>
 </div>
 
 
-### About Me
+<br>
+### <span id="about">About Me</span>
 
 <p style="color: black;">
      Welcome to my portfolio! My name is Zachary Nikkel, and I am a Software Develoment Graduate from Helena College. As a passionate and dedicated software developer, I am thrilled to showcase a selection of my projects that represent my journey in the world of technology. With a background in software development, project management, and systems analysis, I have honed my skills in many different programming languages and technologies. Each project featured in this portfolio reflects not only my technical proficiency but also my creativity, problem-solving abilities, and commitment to producing excellent work. From developing efficient task management systems to crafting predictive algorithms for March Madness, my goal is to leverage technology to solve real-world problems and drive meaningful impact.
