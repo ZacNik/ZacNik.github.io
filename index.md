@@ -25,7 +25,7 @@
 ### <span id="projects">My Projects</span> 
 
 [Task Management System](https://github.com/ZacNik/TaskManagerApplication)
-<img src="images/taskmanagemerman.jpg?raw=true"/>
+<img src="images/taskmanagerman.jpg?raw=true"/>
 <p style="color: black;">This project showcases my expertise in developing efficient task management solutions. Utilizing my skills in software development, I designed and implemented a comprehensive task management application that streamlines workflow processes and enhances productivity. The system features intuitive user interfaces, robust task tracking functionalities, and seamless collaboration tools, empowering teams to effectively manage their tasks and deadlines. Through this project, I gained invaluable experience in software architecture, user experience design, and backend development, demonstrating my commitment to delivering practical solutions to real-world challenges.</p>
 ---
 [March Madness Predictive Algorithm](https://github.com/ZacNik/MachineLearningWork)
