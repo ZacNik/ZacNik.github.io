@@ -54,7 +54,7 @@
 ---
 [Project Management - Paw Park Renovations](https://github.com/ZacNik/PawParkRenovations)
 <img src="images/happydogpark.jpg?raw=true"/>
-<p style="color: black;">In this project, I took on the role of project manager for the Paw Park Renovations, overseeing the planning, execution, and completion of a community-driven initiative to revitalize a local dog park. Through effective project management techniques, I successfully coordinated with stakeholders, volunteers, and vendors to ensure the project's success. This project provided me with hands-on experience in project planning, scheduling, budgeting, and resource allocation, highlighting the importance of effective communication, teamwork, and stakeholder engagement in achieving project objectives.</p>
+<p style="color: black;">In this project, I took on the role of project manager for Paw Park Renovations, overseeing the planning, execution, and completion of a community-driven initiative to revitalize a local dog park. Through effective project management techniques, I successfully coordinated with stakeholders, volunteers, and vendors to ensure the project's success. This project provided me with hands-on experience in project planning, scheduling, budgeting, and resource allocation, highlighting the importance of effective communication, teamwork, and stakeholder engagement in achieving project objectives.</p>
 <br>
 
 ---
