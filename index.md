@@ -47,20 +47,20 @@
 ### Skills
 
 **Technical Skills:**
-- Programming Languages: Java, Python, C#, Javascript
-- Web Development: HTML, CSS, React.js, Razor Pages
-- Backend Development: Node.js, Express.js
-- Database Management: SQL, MongoDB
-- Mobile Development: Android
-- Machine Learning: numpy, pandas
+- <span style="color: black;">Programming Languages:</span> Java, Python, C#, Javascript
+- <span style="color: black;">Web Development:</span> HTML, CSS, React.js, Razor Pages
+- <span style="color: black;">Backend Development:</span> Node.js, Express.js
+- <span style="color: black;">Database Management:</span> SQL, MongoDB
+- <span style="color: black;">Mobile Development:</span> Android
+- <span style="color: black;">Machine Learning:</span> numpy, pandas
 
 **Soft Skills:**
-- Communication
-- Problem-solving
-- Teamwork
-- Time Management
-- Adaptability
-- Leadership
+- <span style="color: black;">Communication</span>
+- <span style="color: black;">Problem-solving</span>
+- <span style="color: black;">Teamwork</span>
+- <span style="color: black;">Time Management</span>
+- <span style="color: black;">Adaptability</span>
+- <span style="color: black;">Leadership</span>
 
 ### Contact Me
 
