@@ -43,7 +43,26 @@
 <img src="images/happydogpark.png?raw=true"/>
 <p>In this project, I took on the role of project manager for the Paw Park Renovations, overseeing the planning, execution, and completion of a community-driven initiative to revitalize a local dog park. Through effective project management techniques, I successfully coordinated with stakeholders, volunteers, and vendors to ensure the project's success. This project provided me with hands-on experience in project planning, scheduling, budgeting, and resource allocation, highlighting the importance of effective communication, teamwork, and stakeholder engagement in achieving project objectives.</p>
 <br>
-## Contact Me
+
+### Skills
+
+**Technical Skills:**
+- Programming Languages: Java, Python, C#, Javascript
+- Web Development: HTML, CSS, React.js, Razor Pages
+- Backend Development: Node.js, Express.js, Flask
+- Database Management: SQL, MongoDB
+- Mobile Development: Android
+- Machine Learning: numpy, pandas
+
+**Soft Skills:**
+- Communication
+- Problem-solving
+- Teamwork
+- Time Management
+- Adaptability
+- Leadership
+
+### Contact Me
 
 <div class="contact-section">
     
