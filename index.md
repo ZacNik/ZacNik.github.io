@@ -1,3 +1,10 @@
+<div style="display: inline;">
+    <a href="#skills">Skills</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+</div>
+
+
 ### About Me
 
 <p style="color: black;">
@@ -8,7 +15,7 @@
 </p>
 ---
 
-### My Projects 
+### <span id="projects">My Projects</span> 
 
 [Task Management System](https://github.com/ZacNik/TaskManagerApplication)
 <img src="images/taskmanagementclipart.jpg?raw=true"/>
@@ -44,7 +51,7 @@
 <p style="color: black;">In this project, I took on the role of project manager for the Paw Park Renovations, overseeing the planning, execution, and completion of a community-driven initiative to revitalize a local dog park. Through effective project management techniques, I successfully coordinated with stakeholders, volunteers, and vendors to ensure the project's success. This project provided me with hands-on experience in project planning, scheduling, budgeting, and resource allocation, highlighting the importance of effective communication, teamwork, and stakeholder engagement in achieving project objectives.</p>
 <br>
 
-### Skills
+### <span id="skills">Skills</span>
 
 **Technical Skills:**
 - <span style="color: black;">Programming Languages: Java, Python, C#, Javascript</span>
@@ -62,7 +69,7 @@
 - <span style="color: black;">Adaptability</span>
 - <span style="color: black;">Leadership</span>
 
-### Contact Me
+### <span id="contact">Contact Me</span>
 
 <div class="contact-section">
     
