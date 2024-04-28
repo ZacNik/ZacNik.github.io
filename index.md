@@ -1,7 +1,7 @@
 <div style="display: inline; padding-bottom: 10px;">
     <p style="color: black; margin-right: 10px;">Go To:</p>
-    <a href="#skills" style="margin-right: 10px;">Skills</a>
-    <a href="#projects" style="margin-right: 10px;">Projects</a>
+    <a href="#skills" style="margin-right: 20px; margin-left: 20px;">Skills</a>
+    <a href="#projects" style="margin-right: 20px;">Projects</a>
     <a href="#contact">Contact</a>
 </div>
 
@@ -56,7 +56,9 @@
 <img src="images/happydogpark.png?raw=true"/>
 <p style="color: black;">In this project, I took on the role of project manager for the Paw Park Renovations, overseeing the planning, execution, and completion of a community-driven initiative to revitalize a local dog park. Through effective project management techniques, I successfully coordinated with stakeholders, volunteers, and vendors to ensure the project's success. This project provided me with hands-on experience in project planning, scheduling, budgeting, and resource allocation, highlighting the importance of effective communication, teamwork, and stakeholder engagement in achieving project objectives.</p>
 <br>
+
 ---
+
 ### <span id="skills">Skills</span>
 
 **Technical Skills:**
