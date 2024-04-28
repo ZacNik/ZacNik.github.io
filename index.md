@@ -53,7 +53,7 @@
 <p style="color: black;">In this project, I conducted a comprehensive case study of the Yahoo security breach, analyzing the factors leading to the breach and its implications for cybersecurity practices. Through extensive research and analysis of cybersecurity frameworks and best practices, I gained a deep understanding of the vulnerabilities exploited in the breach and the impact on Yahoo's users and stakeholders. This project provided me with insights into the importance of proactive security measures, threat intelligence, and incident response planning in safeguarding sensitive data and mitigating cyber threats.</p>
 ---
 [Project Management - Paw Park Renovations](https://github.com/ZacNik/PawParkRenovations)
-<img src="images/happydogpark.png?raw=true"/>
+<img src="images/happydogpark.jpg?raw=true"/>
 <p style="color: black;">In this project, I took on the role of project manager for the Paw Park Renovations, overseeing the planning, execution, and completion of a community-driven initiative to revitalize a local dog park. Through effective project management techniques, I successfully coordinated with stakeholders, volunteers, and vendors to ensure the project's success. This project provided me with hands-on experience in project planning, scheduling, budgeting, and resource allocation, highlighting the importance of effective communication, teamwork, and stakeholder engagement in achieving project objectives.</p>
 <br>
 
