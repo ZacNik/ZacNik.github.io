@@ -37,7 +37,9 @@
 <br>
 - <span style="color: black;">MVC</span>
 <br>
+
 ---
+
 [March Madness Predictive Algorithm](https://github.com/ZacNik/MachineLearningWork)
 <br><br>
 <img src="images/marchmadness.jpg?raw=true"/>
