@@ -160,7 +160,7 @@
 - <span style="color: black;">Web Development: HTML, CSS, React.js, Razor Pages</span>
 - <span style="color: black;">Backend Development: Node.js, Express.js</span>
 - <span style="color: black;">Database Management: SQL, MongoDB</span>
-- <span style="color: black;">Mobile Development: Android</span>
+- <span style="color: black;">Mobile Development: Android app development with Kotlin</span>
 - <span style="color: black;">Machine Learning: numpy, pandas</span>
 
 **Soft Skills:**
