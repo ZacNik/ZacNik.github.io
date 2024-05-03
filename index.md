@@ -28,7 +28,7 @@
 <br><br>
 <img src="images/taskmanagerman.jpg?raw=true"/>
 <p style="color: black;">This project showcases my expertise in developing efficient task management solutions. Utilizing my skills in the .NET Framework, I designed and implemented a comprehensive task management web application that streamlines workflow processes and enhances productivity. The system features intuitive user interfaces, and robust task tracking functionalities empowering teams to effectively manage their tasks and deadlines. Through this project, I gained invaluable experience in software architecture, user experience design, and backend development, demonstrating my commitment to delivering practical solutions to real-world challenges.</p>
-<h2>Technologies Used:</h2>
+<h1>Technologies Used:</h1>
 - <span style="color: black;">C#</span>
 <br>
 - <span style="color: black;">SQL</span>
