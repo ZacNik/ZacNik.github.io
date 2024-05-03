@@ -24,7 +24,7 @@
 
 ### <span id="projects">My Projects</span> 
 
-[Task Management System](https://github.com/ZacNik/TaskManagerApplication)
+[Task Management Application](https://github.com/ZacNik/TaskManagerApplication)
 <br><br>
 <img src="images/taskmanagerman.jpg?raw=true"/>
 <p style="color: black;">This project showcases my expertise in developing efficient task management solutions. Utilizing my skills in the .NET Framework, I designed and implemented a comprehensive task management web application that streamlines workflow processes and enhances productivity. The system features intuitive user interfaces, and robust task tracking functionalities empowering teams to effectively manage their tasks and deadlines. Through this project, I gained invaluable experience in software architecture, user experience design, and backend development, demonstrating my commitment to delivering practical solutions to real-world challenges.</p>
@@ -72,7 +72,7 @@
 
 ---
 
-[Recipe Sharing Platform API with Express](https://github.com/ZacNik/RecipeSharingAPI)
+[Recipe Sharing Platform API](https://github.com/ZacNik/RecipeSharingAPI)
 <br><br>
 <img src="images/nodejstiny.png?raw=true"/>
 <p style="color: black;">In this project, I delved into the world of backend development by creating a robust API for a recipe sharing platform using Express.js. Leveraging my knowledge of Node.js and Express, I designed and implemented RESTful endpoints to facilitate seamless interaction between the frontend and backend of the application. The API allows users to perform various operations, such as creating, retrieving, updating, and deleting recipes, as well as authentication and authorization functionalities to ensure data security. Through this project, I honed my skills in API design, database management, and server-side programming, showcasing my ability to build scalable and efficient backend systems to support modern web applications.</p>
