@@ -11,8 +11,6 @@
 
 ### <span id="about">About Me</span>
 
-
-
 <p style="color: black;">
      Welcome to my portfolio! My name is Zachary Nikkel, and I am a Software Develoment Graduate from Helena College. As a passionate and dedicated software developer, I am thrilled to showcase a selection of my projects that represent my journey in the world of technology. With a background in software development, project management, and systems analysis, I have honed my skills in many different programming languages and technologies. Each project featured in this portfolio reflects not only my technical proficiency but also my creativity, problem-solving abilities, and commitment to producing excellent work. From developing efficient task management systems to crafting predictive algorithms for March Madness, my goal is to leverage technology to solve real-world problems and drive meaningful impact.
 </p>
@@ -52,22 +50,6 @@
 - <span style="color: black;">Jupyter Notebooks</span>
 <br>
 - <span style="color: black;">Python</span>
-<br>
- 
----
-
-[Online Ordering System & Order Tracker for Pizza Paradise](https://github.com/ZacNik/PizzaParadise)
-<br><br>
-<img src="images/pizzaclipart.jpg?raw=true"/>
-<p style="color: black;">As part of my software development journey, I took on the challenge of creating an online ordering system and order tracking platform for Pizza Paradise, my hypothetical pizza joint. This project involved designing and implementing a user-friendly interface for customers to place orders seamlessly and for staff to efficiently manage incoming orders. Leveraging my skills in frontend and backend development, I built a robust system that integrates with Pizza Paradise's existing infrastructure, providing a seamless ordering experience for customers and enhancing operational efficiency for the restaurant. Through this project, I gained hands-on experience in web development, database management, and system integration, demonstrating my ability to deliver tailored solutions to meet specific business needs.</p>
- <h3>Technologies Used:</h3>
-- <span style="color: black;">Java</span>
-<br>
-- <span style="color: black;">SQLServer</span>
-<br>
-- <span style="color: black;">Entity Framework</span>
-<br>
-- <span style="color: black;">MVC</span>
 <br>
 
 ---
