@@ -1,185 +1,206 @@
-<div style="display: inline; padding-bottom: 10px;">
-    <span style="display: inline-block; color: black; margin-right: 10px;">Go To:</span>
-    <a href="#projects" style="margin-right: 20px;">Projects</a>
-    <a href="#skills" style="margin-right: 20px;">Skills</a>
+---
+title: "Zachary Nikkel - Software Developer Portfolio"
+description: "Portfolio of Zachary Nikkel, Software Developer. View projects in software engineering, machine learning, backend APIs, mobile apps, and cybersecurity."
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="Software Developer, Full Stack, Machine Learning, Backend, Python, Java, C#, Node.js, React, SQL, Android, Cybersecurity, Systems Analysis, Portfolio, Zachary Nikkel">
+    <meta name="author" content="Zachary Nikkel">
+    <meta name="description" content="Portfolio of Zachary Nikkel - Software Developer. Explore projects in full stack development, machine learning, backend APIs, Android apps, and cybersecurity.">
+    <meta property="og:title" content="Zachary Nikkel - Software Developer Portfolio">
+    <meta property="og:description" content="Explore the software projects and skills of Zachary Nikkel, a full stack developer with expertise in backend, machine learning, Android, and cybersecurity.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://zacnik.github.io">
+    <meta property="og:image" content="images/og-preview.jpg">
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fafafa;
+            color: #333;
+            line-height: 1.6;
+        }
+        .container {
+            width: 90%;
+            max-width: 1100px;
+            margin: auto;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 0 8px rgba(0,0,0,0.1);
+        }
+        header {
+            text-align: center;
+            padding: 30px 20px;
+            background-color: #f0f0f0;
+            border-bottom: 1px solid #ddd;
+        }
+        header h1 {
+            margin: 10px 0;
+            font-size: 2em;
+            color: #222;
+        }
+        header p { font-size: 1em; margin: 5px 0; }
+        nav {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            padding: 15px 0;
+            background-color: #eee;
+        }
+        nav a {
+            margin: 10px 20px;
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+        h2 {
+            color: #222;
+            margin-top: 40px;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 5px;
+        }
+        h3 { margin-top: 15px; color: #444; }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 15px 0;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        .project {
+            margin-bottom: 40px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #ddd;
+        }
+        ul { padding-left: 20px; }
+        .skills-section {
+            background-color: #f9f9f9;
+            padding: 20px;
+            border: 1px solid #ddd;
+            margin-top: 20px;
+        }
+        .contact-section {
+            margin-top: 30px;
+            padding: 20px;
+            background-color: #f1f1f1;
+            border: 1px solid #ccc;
+        }
+        @media screen and (max-width: 768px) {
+            header h1 { font-size: 1.6em; }
+            nav a { margin: 8px 12px; }
+            .container { width: 95%; padding: 10px; }
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+<header>
+    <h1>Zachary Nikkel - Software Developer</h1>
+    <p>Email: Zachary.Nikkel1@gmail.com | Phone: 618-593-1639</p>
+    <p><a href="Resume.pdf" target="_blank">Download Resume (PDF)</a></p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#projects">Projects</a>
+    <a href="#skills">Skills</a>
     <a href="#contact">Contact</a>
+</nav>
+
+<h2 id="about">About Me</h2>
+<p>
+Welcome! I'm Zachary Nikkel, a software developer with a strong background in full stack development, machine learning, systems analysis, and project management. This portfolio highlights real-world projects that demonstrate my technical skills, problem solving, and passion for building practical software solutions. Thank you for visiting!
+</p>
+
+<h2 id="projects">My Projects</h2>
+
+<div class="project">
+    <a href="https://github.com/ZacNik/TaskManagerApplication"><h3>Task Management Application (2023)</h3></a>
+    <img src="images/taskmanagerman.jpg?raw=true" alt="Task Manager">
+    <p>Full-stack task management system built with .NET and Razor Pages for task tracking and productivity improvement. Includes intuitive user interfaces and robust backend architecture.</p>
+    <h4>Technologies:</h4>
+    <ul><li>C#, SQL Server, Entity Framework, Razor Pages</li></ul>
 </div>
-<br>
 
----
+<div class="project">
+    <a href="https://github.com/ZacNik/MachineLearningWork"><h3>March Madness Predictive Algorithm (2023)</h3></a>
+    <img src="images/marchmadness.jpg?raw=true" alt="March Madness">
+    <p>Machine learning model using historical NCAA data to predict tournament outcomes with 66% accuracy. Applied Python, data preprocessing, and scikit-learn for model development.</p>
+    <h4>Technologies:</h4>
+    <ul><li>Python, Pandas, NumPy, Scikit-learn, Jupyter</li></ul>
+</div>
 
+<div class="project">
+    <a href="https://github.com/ZacNik/RecipeSharingAPI"><h3>Recipe Sharing Platform API</h3></a>
+    <img src="images/nodejstiny.png?raw=true" alt="API Screenshot">
+    <p>Backend REST API for recipe sharing, with CRUD operations, authentication, and secure data handling. Built using Node.js, Express, and MongoDB.</p>
+    <h4>Technologies:</h4>
+    <ul><li>Node.js, Express.js, MongoDB, Postman</li></ul>
+</div>
 
-### <span id="about">About Me</span>
+<div class="project">
+    <a href="https://github.com/ZacNik/SurveyApp"><h3>Android Employee Survey App</h3></a>
+    <img src="images/android.png?raw=true" alt="Android Survey App">
+    <p>Android app for employee surveys and real-time data collection using Kotlin and SQL Server. Built as part of systems analysis and process improvement research.</p>
+    <h4>Technologies:</h4>
+    <ul><li>Kotlin, Android Studio, SQL Server, XML</li></ul>
+</div>
 
+<div class="project">
+    <a href="https://github.com/ZacNik/SystemAnalysisOfUPSWorkEnvironment"><h3>UPS Employee Satisfaction Analysis</h3></a>
+    <img src="images/systemanalysis.jpg?raw=true" alt="UPS Systems Analysis">
+    <p>Conducted systems analysis on UPS employee satisfaction processes using requirement gathering, feasibility study, and solution proposal methods.</p>
+    <h4>Skills Developed:</h4>
+    <ul><li>Systems Analysis, Feasibility Studies, Problem Identification</li></ul>
+</div>
 
+<div class="project">
+    <a href="https://github.com/ZacNik/YahooSecurityBreachCaseStudy"><h3>Yahoo Security Breach Case Study</h3></a>
+    <img src="images/cybersecurity.jpg?raw=true" alt="Yahoo Breach Analysis">
+    <p>Analyzed major security breach at Yahoo and explored vulnerabilities, cybersecurity risks, and mitigation strategies related to data protection.</p>
+    <h4>Skills Developed:</h4>
+    <ul><li>Cybersecurity Analysis, Risk Management, Vulnerability Assessment</li></ul>
+</div>
 
-<p style="color: black;">
-     Welcome to my portfolio! My name is Zachary Nikkel, and I am a Software Develoment Graduate from Helena College. As a passionate and dedicated software developer, I am thrilled to showcase a selection of my projects that represent my journey in the world of technology. With a background in software development, project management, and systems analysis, I have honed my skills in many different programming languages and technologies. Each project featured in this portfolio reflects not only my technical proficiency but also my creativity, problem-solving abilities, and commitment to producing excellent work. From developing efficient task management systems to crafting predictive algorithms for March Madness, my goal is to leverage technology to solve real-world problems and drive meaningful impact.
-</p>
-<p style="color: black;">
-     I invite you to explore my work and learn more about the projects that have shaped my professional journey. Thank you for visiting!
-</p>
+<h2 id="skills">Skills</h2>
 
----
+<div class="skills-section">
+    <h3>Technical Skills</h3>
+    <ul>
+        <li>Languages: Java, Python, C#, JavaScript</li>
+        <li>Web: HTML, CSS, React.js, Razor Pages</li>
+        <li>Backend: Node.js, Express.js, SQL Server, MongoDB</li>
+        <li>Mobile: Android (Kotlin)</li>
+        <li>Machine Learning: NumPy, Pandas, Scikit-learn</li>
+        <li>Cloud: AWS, Azure</li>
+        <li>Tools: Git, Docker, Visual Studio, VS Code</li>
+    </ul>
 
-### <span id="projects">My Projects</span> 
+    <h3>Soft Skills</h3>
+    <ul>
+        <li>Communication, Teamwork, Problem Solving, Leadership, Time Management, Adaptability</li>
+    </ul>
+</div>
 
-[Task Management Application](https://github.com/ZacNik/TaskManagerApplication)
-<br><br>
-<img src="images/taskmanagerman.jpg?raw=true"/>
-<p style="color: black;">This project showcases my expertise in developing efficient task management solutions. Utilizing my skills in the .NET Framework, I designed and implemented a comprehensive task management web application that streamlines workflow processes and enhances productivity. The system features intuitive user interfaces, and robust task tracking functionalities empowering teams to effectively manage their tasks and deadlines. Through this project, I gained invaluable experience in software architecture, user experience design, and backend development, demonstrating my commitment to delivering practical solutions to real-world challenges.</p>
-<h3>Technologies Used:</h3>
-- <span style="color: black;">C#</span>
-<br>
-- <span style="color: black;">SQLServer</span>
-<br>
-- <span style="color: black;">Entity Framework</span>
-<br>
-- <span style="color: black;">Razor Pages</span>
-<br>
-
----
-
-[March Madness Predictive Algorithm](https://github.com/ZacNik/MachineLearningWork)
-<br><br>
-<img src="images/marchmadness.jpg?raw=true"/>
- <p style="color: black;">In my Independent Study on Machine Learning, I embarked on the challenge of developing a predictive algorithm for the mens NCAA Basketball Tournament, commonly known as March Madness. Leveraging my expertise in machine learning techniques and Python programming, I crafted an algorithm that achieved an impressive 66% accuracy in predicting the tournament winners for the 2022 season. By harnessing the power of numpy and pandas libraries, I analyzed historical tournament data, identified key factors influencing game outcomes, and trained the algorithm to make accurate predictions. This project not only showcased my proficiency in data analysis and predictive modeling but also highlighted my ability to tackle complex problems and deliver actionable insights through innovative solutions.</p>
- <h3>Technologies Used:</h3>
-- <span style="color: black;">Pandas and NumPy libraries</span>
-<br>
-- <span style="color: black;">Scikit Learn</span>
-<br>
-- <span style="color: black;">Jupyter Notebooks</span>
-<br>
-- <span style="color: black;">Python</span>
-<br>
- 
----
-
-[Online Ordering System & Order Tracker for Pizza Paradise](https://github.com/ZacNik/PizzaParadise)
-<br><br>
-<img src="images/pizzaclipart.jpg?raw=true"/>
-<p style="color: black;">As part of my software development journey, I took on the challenge of creating an online ordering system and order tracking platform for Pizza Paradise, my hypothetical pizza joint. This project involved designing and implementing a user-friendly interface for customers to place orders seamlessly and for staff to efficiently manage incoming orders. Leveraging my skills in frontend and backend development, I built a robust system that integrates with Pizza Paradise's existing infrastructure, providing a seamless ordering experience for customers and enhancing operational efficiency for the restaurant. Through this project, I gained hands-on experience in web development, database management, and system integration, demonstrating my ability to deliver tailored solutions to meet specific business needs.</p>
- <h3>Technologies Used:</h3>
-- <span style="color: black;">Java</span>
-<br>
-- <span style="color: black;">SQLServer</span>
-<br>
-- <span style="color: black;">Entity Framework</span>
-<br>
-- <span style="color: black;">MVC</span>
-<br>
-
----
-
-[Recipe Sharing Platform API](https://github.com/ZacNik/RecipeSharingAPI)
-<br><br>
-<img src="images/nodejstiny.png?raw=true"/>
-<p style="color: black;">In this project, I delved into the world of backend development by creating a robust API for a recipe sharing platform using Express.js. Leveraging my knowledge of Node.js and Express, I designed and implemented RESTful endpoints to facilitate seamless interaction between the frontend and backend of the application. The API allows users to perform various operations, such as creating, retrieving, updating, and deleting recipes, as well as authentication and authorization functionalities to ensure data security. Through this project, I honed my skills in API design, database management, and server-side programming, showcasing my ability to build scalable and efficient backend systems to support modern web applications.</p>
- <h3>Technologies Used:</h3>
-- <span style="color: black;">Node.js</span>
-<br>
-- <span style="color: black;">Express.js</span>
-<br>
-- <span style="color: black;">MongoDB</span>
-<br>
-- <span style="color: black;">Postman</span>
-<br>
-
----
-
-[Android OS Employee Survey Application](https://github.com/ZacNik/SurveyApp)
-<br><br>
-<img src="images/android.png?raw=true"/>
-<p style="color: black;">In this project, I developed an Employee Survey Application for Android OS, drawing on the insights gained from my Systems Analysis project. Inspired by the need for a comprehensive feedback mechanism within UPS and other organizations, I designed this application to serve as the suggested system proposed in my Systems Analysis project. Leveraging my expertise in Java and Android development with Kotlin, I crafted a user-friendly interface that enables employees to participate in surveys and provide feedback conveniently from their mobile work devices. The application not only streamlines the data collection process but also facilitates real-time analysis and reporting, empowering organizations to gather actionable insights into employee satisfaction and engagement levels. Through this project, I demonstrated my ability to translate theoretical concepts from systems analysis into practical solutions that address real-world challenges and improve organizational processes.</p>
- <h3>Technologies Used:</h3>
-- <span style="color: black;">Kotlin</span>
-<br>
-- <span style="color: black;">SQLServer</span>
-<br>
-- <span style="color: black;">Android Studio</span>
-<br>
-- <span style="color: black;">XML</span>
-<br>
-
----
-
-[System Analysis of UPS Employee Satisfaction](https://github.com/ZacNik/SystemAnalysisOfUPSWorkEnvironment)
-<br><br>
-<img src="images/systemanalysis.jpg?raw=true"/>
-<p style="color: black;">In this project, I conducted a comprehensive Systems Analysis of UPS's employee satisfaction processes, focusing on understanding and improving the factors influencing employee morale and engagement. Through my investigation of UPS's employee retention strategies, I gained invaluable insights into the intricacies of UPS's organizational structure and employee satisfaction dynamics. This project provided me with a deep understanding of Systems Analysis methodologies, including requirement gathering, modeling techniques, and feasibility analysis. Moreover, it honed my skills in identifying pain points, proposing system improvements, and eliciting requirements to meet organizational objectives effectively.</p>
- <h3>Skills Developed: </h3>
-- <span style="color: black;">Systems Analysis</span>
-<br>
-- <span style="color: black;">Feasibility Analysis</span>
-<br>
-- <span style="color: black;">Problem Identification and Solution Proposal</span>
-<br>
-- <span style="color: black;">Organizational Understanding</span>
-<br>
-
----
-
-[Case Study of Yahoo Security Breach](https://github.com/ZacNik/YahooSecurityBreachCaseStudy)
-<br><br>
-<img src="images/cybersecurity.jpg?raw=true"/>
-<p style="color: black;">In this project, I conducted a comprehensive case study of the Yahoo security breach, analyzing the factors leading to the breach and its implications for cybersecurity practices. Through extensive research and analysis of cybersecurity frameworks and best practices, I gained a deep understanding of the vulnerabilities exploited in the breach and the impact on Yahoo's users and stakeholders. This project provided me with insights into the importance of proactive security measures, threat intelligence, and incident response planning in safeguarding sensitive data and mitigating cyber threats.</p>
- <h3>Skills Developed: </h3>
-- <span style="color: black;">Cybersecurity Analysis</span>
-<br>
-- <span style="color: black;">Vulnerability Assessment</span>
-<br>
-- <span style="color: black;">Risk Management</span>
-<br>
-- <span style="color: black;">Communication and Reporting</span>
-<br>
-
----
-
-[Project Management - Paw Park Renovations](https://github.com/ZacNik/PawParkRenovations)
-<br><br>
-<img src="images/happydogpark.jpg?raw=true"/>
-<p style="color: black;">In this project, I took on the role of project manager for Paw Park Renovations, overseeing the planning, execution, and completion of a community-driven initiative to revitalize a local dog park. Through effective project management techniques, I successfully coordinated with stakeholders, volunteers, and vendors to ensure the project's success. This project provided me with hands-on experience in project planning, scheduling, budgeting, and resource allocation, highlighting the importance of effective communication, teamwork, and stakeholder engagement in achieving project objectives.</p>
-<br>
- <h3>Skills Developed: </h3>
-- <span style="color: black;">Project Planning</span>
-<br>
-- <span style="color: black;">Stakeholder Management</span>
-<br>
-- <span style="color: black;">Budgeting and Resource Allocation</span>
-<br>
-- <span style="color: black;">Leadership</span>
-<br>
-
----
-
-### <span id="skills">Skills</span>
-
-**Technical Skills:**
-- <span style="color: black;">Programming Languages: Java, Python, C#, Javascript</span>
-- <span style="color: black;">Web Development: HTML, CSS, React.js, Razor Pages</span>
-- <span style="color: black;">Backend Development: Node.js, Express.js</span>
-- <span style="color: black;">Database Management: SQL, MongoDB</span>
-- <span style="color: black;">Mobile Development: Android app development with Kotlin</span>
-- <span style="color: black;">Machine Learning: numpy, pandas</span>
-
-**Soft Skills:**
-- <span style="color: black;">Communication</span>
-- <span style="color: black;">Problem-solving</span>
-- <span style="color: black;">Teamwork</span>
-- <span style="color: black;">Time Management</span>
-- <span style="color: black;">Adaptability</span>
-- <span style="color: black;">Leadership</span>
-
----
-
-### <span id="contact">Contact Me</span>
+<h2 id="contact">Contact Me</h2>
 
 <div class="contact-section">
-    
-    <p style="color: black;"><strong>Email:</strong> Zachary.Nikkel1@gmail.com</p>
-    <p style="color: black;"><strong>Phone:</strong> 618-593-1639</p>
+    <p><strong>Email:</strong> Zachary.Nikkel1@gmail.com</p>
+    <p><strong>Phone:</strong> 618-593-1639</p>
+    <p><a href="Resume.pdf" target="_blank">Download Resume (PDF)</a></p>
 </div>
 
+</div>
 
-
+</body>
+</html>
