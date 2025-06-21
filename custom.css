@@ -1,8 +1,1 @@
-/* Hide any floating resume/contact box */
-.author-box,
-.floating-contact,
-.resume-widget,
-div[style*="position: fixed"],
-div[style*="position: absolute"] {
-    display: none !important;
-}
+
